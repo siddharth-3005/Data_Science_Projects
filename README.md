@@ -6,8 +6,8 @@ predictions of models build
 **Length of Stay prediction(Healthcare Management)**
 Built different classification and deep learning algorithms to build different models where each model had different preprocessing techniques attempting to make the model understand the innate patterns present in the dataset. Used different approaches to explain the variables present in the data and tried building iterative models based on my understanding improving the performances of models gradually
 
-**Women Clothing Review Analysis & Breast Cancer Image classification**
-Explored different Natural Language processing techniques to manipulate the text data present in the dataset and build different deep learning algorithms to create predictive models that classified the sentiment of the text close to accurate in Women Clothing Review analysis dataset. In Breast cancer image classification project used different image augmentation techniques to capturing different dimension of the data and build a CNN algorithm to create a predictive model that would predict whether the given scan image indicates that the patient has breast cancer or not
+**Women Clothing Review Analysis**
+Explored different Natural Language processing techniques to manipulate the text data present in the dataset and build different deep learning algorithms to create predictive models that classified the sentiment of the text close to accurate in Women Clothing Review analysis dataset.
 
 **Physical activity prediction**
 Used different visualization and preprocessing techniques to understand the patterns and behaviors of each sensors measuring each body parts and how they affect different activities and build a classification and deep learning model that would predict the type of activity based on the measurements given
