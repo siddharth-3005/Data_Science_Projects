@@ -24,4 +24,7 @@
 6. Online Customer Purchasing Intent:
    Contains data about customers usage of ecommerce site and based on that we can see whether the customer will buy from the store or not. Used unsupervised learning to get clusters
    from the data and used that label to build a model and compared that with the original label given with the dataset which states whether the customer will make the purchase or not.
+
+7. Store analysis Power BI dashboard:
+   A dashboard that analysis different aspects of a store sales. This is work in progress
    
