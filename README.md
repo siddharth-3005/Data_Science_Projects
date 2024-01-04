@@ -31,7 +31,10 @@
 7. Call Centre data analysis PowerBI dashboard
    A Power BI dashboard for a telecom company to understand the various aspects of customer satisfaction based on call duration, rating, complaint type, and so on.
 
-7. Potato Disease classification
-   Using the Convolution Neural Network algorithm built a model that would classify the type of disease a potato leaf has based on the images given. 
+8. Potato Disease classification
+   Using the Convolution Neural Network algorithm built a model that would classify the type of disease a potato leaf has based on the images given.
    
+9. Reddit Chatbot
+   Built a chatbot using the capabilities of Large Language models, Hugging face interface, and langchain framework on custom data from data science and machine learning threads 
+   extracted from Reddit API.
    
