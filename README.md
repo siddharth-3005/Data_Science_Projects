@@ -37,4 +37,6 @@
 9. Reddit Chatbot
    Built a chatbot using the capabilities of Large Language models, Hugging face interface, and langchain framework on custom data from data science and machine learning threads 
    extracted from Reddit API.
-   
+
+10. Stroke prediction Streamlit web app
+    Built a streamlit web app to display the model prediction in the form of a web app where users can give inputs and the app will give a prediction based on the input. Built this to see how to deploy an ML model into an app and how it works in action.
